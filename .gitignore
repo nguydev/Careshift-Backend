@@ -1,0 +1,10 @@
+node_modules
+.env
+src/config/fir-crud-70c58-firebase-adminsdk-sx7yo-f683ff8a08.json
+src/config/ok.json
+
+/logs
+/dist
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
